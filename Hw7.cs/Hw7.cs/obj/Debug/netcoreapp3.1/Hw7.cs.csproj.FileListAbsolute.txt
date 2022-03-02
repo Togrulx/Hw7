@@ -1,0 +1,13 @@
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/bin/Debug/netcoreapp3.1/Hw7.cs.deps.json
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/bin/Debug/netcoreapp3.1/Hw7.cs.runtimeconfig.json
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/bin/Debug/netcoreapp3.1/Hw7.cs.runtimeconfig.dev.json
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/bin/Debug/netcoreapp3.1/Hw7.cs.dll
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/bin/Debug/netcoreapp3.1/Hw7.cs.pdb
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/obj/Debug/netcoreapp3.1/Hw7.cs.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/obj/Debug/netcoreapp3.1/Hw7.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/obj/Debug/netcoreapp3.1/Hw7.cs.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/obj/Debug/netcoreapp3.1/Hw7.cs.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/obj/Debug/netcoreapp3.1/Hw7.cs.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/obj/Debug/netcoreapp3.1/Hw7.cs.dll
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/obj/Debug/netcoreapp3.1/Hw7.cs.pdb
+/Users/togrultalibov/Desktop/Hw7/Hw7.cs/Hw7.cs/obj/Debug/netcoreapp3.1/Hw7.cs.genruntimeconfig.cache

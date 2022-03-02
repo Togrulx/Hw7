@@ -1,0 +1,10 @@
+﻿using System;
+namespace Hw7.cs
+{
+	public class Library
+	{
+		public Library()
+		{
+		}
+	}
+}
